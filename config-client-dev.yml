@@ -1,3 +1,9 @@
 info:
   profile: dev
   from: dev
+  
+# 模拟配置数据库的链接，用户名，密码
+mysql:
+  url: 192.168.1.1
+  username: lisi
+  password: 123123

@@ -1,3 +1,9 @@
 info:
   profile: default
   from: default
+  
+# 模拟配置数据库的链接，用户名，密码
+mysql:
+  url: 127.0.0.1
+  username: zhangsan
+  password: 123456
